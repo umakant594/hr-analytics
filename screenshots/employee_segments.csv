@@ -1,0 +1,5 @@
+employee_segment,employees,average_salary,attrition_rate
+High Performer - Highly Satisfied,322,645177.02,12.73
+High Performer - Low Satisfaction,451,643727.27,16.41
+Lower Performer - Low Satisfaction,778,642088.69,17.87
+Lower Performer - Satisfied,449,648247.22,11.14
